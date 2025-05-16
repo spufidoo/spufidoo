@@ -7,7 +7,6 @@ Mainframe Maverick
 SQL Rebel without a clause
 
 * 🌍  I'm based in Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-* ✉️  You can contact me at [marcus@davage.me](mailto:marcus@davage.me)
 * 🧠  I'm learning Rachmaninov Prélude in C# minor, Op. 3, No. 2
 * 🤝  I'm open to collaborating on anything mainframe
 
@@ -60,4 +59,4 @@ src="https://img.shields.io/github/followers/spufidoo?logo=github&style=for-the-
 
 <a href="http://www.github.com/spufidoo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=spufidoo&stroke=f97316&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="http://www.github.com/spufidoo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=spufidoo&bg_color=0f172a&color=f97316&line=0891b2&point=f97316&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=spufidoo&theme=github)
