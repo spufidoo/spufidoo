@@ -51,9 +51,9 @@ src="https://img.shields.io/github/followers/spufidoo?logo=github&style=for-the-
   <a href="https://www.twitch.tv/spufidoo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a>
 </p>
 
-### Badges
+### Video Talks
+| Title | Url | Occasion | Date |
+| --- | --- | --- | --- |
+| Claims, Drains and Automobiles | https://youtu.be/ZBvPfH0TG5s | Virtual Db2 User Group | Lan 2025 |
+| Driving Down Database Development Dollars | https://youtu.be/NZQYxr1eUKQ | Virtual Db2 User Group | Jan 2024 |
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/spufidoo"><img src="https://github-readme-stats.vercel.app/api?username=spufidoo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="spufidoo's GitHub stats" /></a>
-<a href="http://www.github.com/spufidoo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=spufidoo&stroke=f97316&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
