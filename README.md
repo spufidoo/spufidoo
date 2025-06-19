@@ -54,21 +54,17 @@ src="https://img.shields.io/github/followers/spufidoo?logo=github&style=for-the-
 ### Video Talks
 | Title | Url | Occasion | Date |
 | --- | --- | --- | --- |
-| Claims, Drains and Automobiles | https://youtu.be/ZBvPfH0TG5s | Virtual Db2 User Group | Lan 2025 |
-| Driving Down Database Development Dollars | https://youtu.be/NZQYxr1eUKQ | Virtual Db2 User Group | Jan 2024 |
-| Blowing Raspberries or Speaking in Tongues | https://www.youtube.com/watch?v=9YLoS1NSC9A&t=12468s | Raspberry Pi Clubs Conference | Mar 2023 |
-| Claims, Drains and Automobiles | https://www.youtube.com/watch?v=ZBvPfH0TG5s | Virtual Db2 User Group | Jan 2025 |
-| Driving Down Database Development Dollars | https://www.youtube.com/watch?v=NZQYxr1eUKQ | Virtual Db2 User Group | Jan 2024 |
-| Linux on the IBM Mainframe Z Platform | https://www.youtube.com/watch?v=V-5dqnTd09k | South Wales Linus User Group | Mar 2020 |
+| Driving Down Database Development Dollars | https://www.youtube.com/watch?v=WQ4ZY-rgB-8 | GSE UK Virtual | Mar 2025 |
 | Comparing a Porsche to a Mainframe | https://www.youtube.com/watch?v=ygCHmRFD5_o | Mainframerz Meetup | Mar 2025 |
-| IBM Champions | https://www.youtube.com/watch?v=9gEuMiu0MR8 | Mainframerz Meetup | Mar 2021 |
+| Claims, Drains and Automobiles | https://www.youtube.com/watch?v=ZBvPfH0TG5s | Virtual Db2 User Group | Jan 2025 |
 | Cyflwyniad i Godio | https://www.youtube.com/watch?v=Ppg3ac9nMao | Gŵyl Dyfodol Digidol Penybont | Feb 2024 |
 | An Introduction to Coding | https://www.youtube.com/watch?v=pgN4MCnGZyI | Brigend Digital Futures Festival | Feb 2024 |
+| Driving Down Database Development Dollars | https://youtu.be/NZQYxr1eUKQ | Virtual Db2 User Group | Jan 2024 |
+| Blowing Raspberries or Speaking in Tongues | https://www.youtube.com/watch?v=9YLoS1NSC9A&t=12468s | Raspberry Pi Clubs Conference | Mar 2023 |
 | A Row's Life | https://www.youtube.com/watch?v=0CtoIH1YWok | Db2 Night Show | Jan 2023 |
 | A new term on the Mainframe | https://www.youtube.com/watch?v=kH2iPkdTcrM | Mainframerz Meetup | Sep 2021 |
-| Driving Down Database Development Dollars | https://www.youtube.com/watch?v=WQ4ZY-rgB-8 | GSE UK Virtual | Mar 2025 |
-| Blowing Raspberries or Speaking in Tongues | https://www.youtube.com/watch?v=9YLoS1NSC9A&t=12468s | Raspberry Pi Foundation Clubs Conference | Mar 2023 |
-
+| IBM Champions | https://www.youtube.com/watch?v=9gEuMiu0MR8 | Mainframerz Meetup | Mar 2021 |
+| Linux on the IBM Mainframe Z Platform | https://www.youtube.com/watch?v=V-5dqnTd09k | South Wales Linux User Group | Mar 2020 |
 
 ## Appearances
 | Title | Url | Occasion | Date |
