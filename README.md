@@ -55,6 +55,8 @@ SQL Rebel without a clause
 | Driving Down Database Development Dollars | https://www.youtube.com/watch?v=WQ4ZY-rgB-8 | GSE UK Virtual | Mar 2025 |
 | Comparing a Porsche to a Mainframe | https://www.youtube.com/watch?v=ygCHmRFD5_o | Mainframerz Meetup | Mar 2025 |
 | Claims, Drains and Automobiles | https://www.youtube.com/watch?v=ZBvPfH0TG5s | Virtual Db2 User Group | Jan 2025 |
+| Driving Down Database Development Dollars | https://vimeo.com/1029919062/35385d9227 | IDUG EMEA | Oct 2024 |
+| “Your data or your life!” - What DORA means for your Db2 Database | https://vimeo.com/1029990584/6cd4a0210d | IDUG EMEA | Oct 2024 |
 | Cyflwyniad i Godio | https://www.youtube.com/watch?v=Ppg3ac9nMao | Gŵyl Dyfodol Digidol Penybont | Feb 2024 |
 | An Introduction to Coding | https://www.youtube.com/watch?v=pgN4MCnGZyI | Brigend Digital Futures Festival | Feb 2024 |
 | Driving Down Database Development Dollars | https://youtu.be/NZQYxr1eUKQ | Virtual Db2 User Group | Jan 2024 |
