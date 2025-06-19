@@ -10,11 +10,9 @@ SQL Rebel without a clause
 * 🧠  I'm learning Rachmaninov Prélude in C# minor, Op. 3, No. 2
 * 🤝  I'm open to collaborating on anything mainframe
 
-<a href="https://www.github.com/spufidoo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/spufidoo?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
+<a href="https://www.github.com/spufidoo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/spufidoo?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
 
 ### Skills
-
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
