@@ -23,7 +23,7 @@ SQL Rebel without a clause
   <a href="https://www.ibm.com/docs/en/zos" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=1200&id=mldPmcCMMrFh&format=png" width="36" height="36" alt="High-Level Assembler" /></a>
   <a href="https://www.ibm.com/docs/en/zos-basic-skills?topic=collection-what-is-jcl" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:580/format:webp/0*QHE9dsZoHAyU2_5P" width="36" height="36" alt="JCL" /></a>
   <a href="https://www.ibm.com/docs/en/zos/2.4.0?topic=guide-rexx" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374046/rexx.svg" width="36" height="36" alt="Rexx" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" width="36" height="36" alt="VS Code" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/210/953/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon-thumbnail.png" width="36" height="36" alt="VS Code" /></a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
