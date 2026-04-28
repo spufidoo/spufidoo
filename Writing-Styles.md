@@ -1,150 +1,164 @@
-🧠 The “Marcus Writing Pattern” Template
-1. The Unexpected Opening (The Hook)
+# The "Marcus Writing Pattern" Template
 
-Goal: Intrigue first, explain later.
+## 1) The Unexpected Opening (The Hook)
 
-Start with something that doesn’t obviously belong:
+**Goal:** Intrigue first, explain later.
 
-A historical anecdote
-A cultural reference
-A mildly absurd observation
-A personal story with a twist
+Start with something that doesn't obviously belong:
+
+- A historical anecdote
+- A cultural reference
+- A mildly absurd observation
+- A personal story with a twist
 
 Then hint that it connects to the topic.
 
-Example pattern:
+**Example pattern:**
 
-In 1878, someone made a decision that seemed perfectly reasonable at the time—and quietly created a problem that would outlive them by a century.
+> In 1878, someone made a decision that seemed perfectly reasonable at the time-and quietly created a problem that would outlive them by a century.
+>
+> Which, as it turns out, is also how most database performance issues begin.
 
-Which, as it turns out, is also how most database performance issues begin.
+**Tip:** Don't explain the connection immediately. Let curiosity do the work.
 
-👉 Don’t explain the connection immediately. Let curiosity do the work.
+---
 
-2. The Pivot (The “Anyway…” Moment)
+## 2) The Pivot (The "Anyway..." Moment)
 
-Goal: Bridge story → topic smoothly.
+**Goal:** Bridge story to topic smoothly.
 
 This is where you turn the wheel without the reader feeling the turn.
 
-Signature move:
+**Signature move:**
 
-Anyway, what does this have to do with Db2?
+> Anyway, what does this have to do with Db2?
 
 Or a subtler version:
 
-It’s a pattern we still see today—just with fewer waistcoats and more SQL.
+> It's a pattern we still see today-just with fewer waistcoats and more SQL.
 
-👉 This is where your voice shines: slightly playful, slightly knowing.
+**Tip:** This is where your voice shines: slightly playful, slightly knowing.
 
-3. The Translation Layer (Make It Click)
+---
 
-Goal: Turn complexity into something tangible.
+## 3) The Translation Layer (Make It Click)
+
+**Goal:** Turn complexity into something tangible.
 
 Introduce the technical concept through:
 
-Analogy
-Metaphor
-Real-world mapping
+- Analogy
+- Metaphor
+- Real-world mapping
 
-Example:
+**Example:**
 
-Think of the query optimiser less like a calculator and more like a slightly over-caffeinated travel planner trying to find the fastest route through a city it can’t quite see.
+> Think of the query optimiser less like a calculator and more like a slightly over-caffeinated travel planner trying to find the fastest route through a city it can't quite see.
 
-👉 This is your superpower. Lean into it.
+**Tip:** This is your superpower. Lean into it.
 
-4. The Reveal (Now We Get Serious…ish)
+---
 
-Goal: Deliver the actual technical insight.
+## 4) The Reveal (Now We Get Serious...ish)
+
+**Goal:** Deliver the actual technical insight.
 
 Now that the reader gets the shape of the idea, give them the real mechanics:
 
-What it is
-How it works
-Why it matters
+- What it is
+- How it works
+- Why it matters
 
 Keep it clear, but still conversational.
 
-👉 Avoid switching into “documentation voice.” Stay human.
+**Tip:** Avoid switching into "documentation voice." Stay human.
 
-5. The Practical Layer (What Should I Do With This?)
+---
 
-Goal: Make it useful.
+## 5) The Practical Layer (What Should I Do With This?)
 
-This is where many writers drop the ball—you don’t.
+**Goal:** Make it useful.
+
+This is where many writers drop the ball-you don't.
 
 Provide:
 
-A rule of thumb
-A common pitfall
-A simple action
-A “watch out for this”
+- A rule of thumb
+- A common pitfall
+- A simple action
+- A "watch out for this"
 
-Example:
+**Example:**
 
-If you remember nothing else, remember this: if Db2 is doing something surprising, it’s usually because it knows something you don’t—or you forgot to tell it something it needed.
+> If you remember nothing else, remember this: if Db2 is doing something surprising, it's usually because it knows something you don't-or you forgot to tell it something it needed.
 
-6. The Aside (Optional but Very You)
+---
 
-Goal: Add personality without derailing.
+## 6) The Aside (Optional but Very You)
+
+**Goal:** Add personality without derailing.
 
 Drop in a quick aside:
 
-Self-aware comment
-Gentle joke
-Acknowledgement of complexity
+- Self-aware comment
+- Gentle joke
+- Acknowledgement of complexity
 
-Example:
+**Example:**
 
-(There is, of course, a parameter for this. There is always a parameter for this.)
+> (There is, of course, a parameter for this. There is always a parameter for this.)
 
-👉 Use sparingly for maximum effect.
+**Tip:** Use sparingly for maximum effect.
 
-7. The Closing Loop (Bring It Full Circle)
+---
 
-Goal: Tie back to the opening.
+## 7) The Closing Loop (Bring It Full Circle)
 
-Return—subtly or directly—to your initial hook.
+**Goal:** Tie back to the opening.
 
-Example:
+Return-subtly or directly-to your initial hook.
 
-Much like that decision in 1878, the real impact isn’t in the moment—it’s in how long it quietly sticks around.
+**Example:**
 
-👉 This gives your writing that crafted feeling.
+> Much like that decision in 1878, the real impact isn't in the moment-it's in how long it quietly sticks around.
 
-🧩 Quick Fill-in Template
+**Tip:** This gives your writing that crafted feeling.
+
+---
+
+## Quick Fill-In Template
 
 When you want to write fast, use this skeleton:
 
-[Unexpected opening story or reference]
+1. **Unexpected opening story or reference**
+2. **Bridge to topic**
+3. **Analogy that explains the concept**
+4. **Clear technical explanation**
+5. **Practical takeaway or advice**
+6. **Optional aside for personality**
+7. **Closing line that echoes the opening**
 
-[Bridge to topic]
+---
 
-[Analogy that explains the concept]
-
-[Clear technical explanation]
-
-[Practical takeaway or advice]
-
-[Optional aside for personality]
-
-[Closing line that echoes the opening]
-⚙️ Tone Checklist (Your “Voice Settings”)
+## Tone Checklist (Your "Voice Settings")
 
 Before you hit publish, sanity-check against this:
 
-Am I talking to the reader, not at them?
-Did I make at least one thing easier to understand than usual?
-Is there a moment of personality or humour?
-Would this sound natural if said out loud over a pint?
-Did I avoid sounding like vendor documentation?
+- Am I talking to the reader, not at them?
+- Did I make at least one thing easier to understand than usual?
+- Is there a moment of personality or humour?
+- Would this sound natural if said out loud over a pint?
+- Did I avoid sounding like vendor documentation?
 
-If yes—you’re on brand.
+If yes, you're on brand.
 
-🎯 Advanced Move (When You Want to Elevate It)
+---
 
-Layer in a “double meaning” analogy:
+## Advanced Move (When You Want to Elevate It)
 
-One that works on the surface
-But also subtly reinforces the deeper technical truth
+Layer in a "double meaning" analogy:
 
-That’s where your Douglas Adams / Monty Python influence really lands.
+- One that works on the surface
+- But also subtly reinforces the deeper technical truth
+
+That's where your Douglas Adams / Monty Python influence really lands.
