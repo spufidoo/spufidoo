@@ -74,3 +74,4 @@ SQL Rebel without a clause
 | --- | --- | --- | --- |
 | Interview | https://www.youtube.com/watch?v=L6GPgtnnxas | Tech Sharmit | Mar 2025 |
 | A Digital Transformation Requires the Right Mindset | https://www.youtube.com/watch?v=8WNoVMPg1Ww&pp=ygUNbWFyY3VzIGRhdmFnZQ%3D%3D | BMC Software | May 2024 |
+| I am a Mainframer with Marcus Davage - How Curiosity Built a 30-Year Career | https://share.google/QoFxaeN6R4YrUPyP7 | Open Mainframe Project | April 2026 |
