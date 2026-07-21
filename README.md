@@ -46,12 +46,6 @@ SQL Rebel without a clause
   <a href="https://open.spotify.com/show/5Rnpoova3LGE6HO9XvsM11?si=850b85927049485f" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a>
 </p>
 
-### GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/spufidoo"><img src="https://github-readme-stats.vercel.app/api?username=spufidoo&show_icons=true&hide_border=true&bg_color=0f172a&title_color=0891b2&icon_color=0891b2&text_color=ffffff&count_private=true" alt="GitHub Stats" /></a>
-</p>
-
 ### Video Talks
 
 | Title | Occasion | Date |
